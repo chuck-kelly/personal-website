@@ -1,3 +1,4 @@
-# personal-website
+# My personal-website
+
 notes to self
-    -windows cnd to active environment <venv\Scripts\activate>
+- windows cnd to active environment ``` venv\Scripts\activate> ```
